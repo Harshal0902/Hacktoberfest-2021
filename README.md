@@ -126,4 +126,4 @@ Open source is changing the world – one contribution at a time. Hacktoberfest 
 
 ## Project Contributors
 
-![Contributors](https://contributors-img.web.app/image?repo=Harshal0902/Hacktoberfest)
+![Contributors](https://contributors-img.web.app/image?repo=Harshal0902/Hacktoberfest-2021)
