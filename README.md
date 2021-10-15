@@ -33,6 +33,7 @@ Open source is changing the world – one contribution at a time. Hacktoberfest 
 - Tic Tac Toe
 - Weather App
 - Youtube Video Player
+- chrome extensions
 
 ### React JS
 
@@ -62,6 +63,8 @@ Open source is changing the world – one contribution at a time. Hacktoberfest 
 - Email Sender
 - Video Streaming Platform
 - Web Scraper
+- microservices
+- backend service for alexa and google assistant skills
 
 ## Full Stack Ideas
 
@@ -117,6 +120,7 @@ Open source is changing the world – one contribution at a time. Hacktoberfest 
 - Sentiment Analysis Project
 - Image Classifier Project
 - Image Captioning Project
+- generate hashtags for image by detecting the objects
 
 ## Contribution
 
